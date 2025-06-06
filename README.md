@@ -2,8 +2,6 @@
 
 <p align="left">
   - Student of Analysis and Systems Development<br>
-  - Java Developer<br>
-  - C++ Programmer
 </p>
 
 <h2 align="left">Techs</h2>
