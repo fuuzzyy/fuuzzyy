@@ -22,8 +22,7 @@
 
 <h2 align="left">Stats</h2>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fuuzzyy&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=false" height="150" alt="GitHub Stats" />
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=fuuzzyy&layout=compact&theme=dracula&hide_border=false" height="150" alt="Top Languages" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=fuuzzyy&theme=react-dark&area=true&hide_border=false" height="300" alt="GitHub Activity Graph" />
 </div>
