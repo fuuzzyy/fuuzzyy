@@ -1,7 +1,7 @@
 <h2 align="left">About Me</h2>
 
 <p align="left">
-  - Student of Analysis and Systems Development<br>
+  - Student of Systems Development<br>
 </p>
 
 <h2 align="left">Techs</h2>
